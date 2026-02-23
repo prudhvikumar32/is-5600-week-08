@@ -3,7 +3,7 @@ const api = require('./api')
 const middleware = require('./middleware')
 const bodyParser = require('body-parser')
 
-// Set the port
+// Set the 3000 PORT
 const port = process.env.PORT || 3000
 
 // Boot the app
